@@ -1,0 +1,6 @@
+{
+  "name": "Earth Voyage Passport & Visa Photo Studio",
+  "description": "Official biometric passport and visa photo maker with real-time compliance validation, precise country guidelines, physical postal delivery, and printable 4x6\" photo sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
